@@ -535,7 +535,7 @@ header {
 
 .nav1Header {
     position: relative;
-    top: 250px;
+    top: 160px;
     width: 100%;
     display: flex;
     justify-content: space-around;
@@ -545,7 +545,7 @@ header {
 
 .nav2Header {
     position: relative;
-    top: 200px;
+    top: 120px;
     width: 100%;
     display: flex;
     justify-content: space-around;
@@ -555,7 +555,7 @@ header {
 
 .rightSection6 p {
     position: relative;
-    top: 70px;
+    top: 40px;
     font-size: 1vw;
     display: flex;
     font-size: 1vw;
